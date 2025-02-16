@@ -48,6 +48,8 @@ x-auth-access=<access_token_1>; x-auth-refresh=<refresh_token_1>
 x-auth-access=<access_token_2>; x-auth-refresh=<refresh_token_2>
 ...
 ```
+![image](https://github.com/user-attachments/assets/9e9ecb1e-9bbd-44e4-8502-6ce930cc2878)
+
 Each line in the cookies.txt file should correspond to one account, containing the x-auth-access and x-auth-refresh tokens.
 
 ### 4. Run the Script
